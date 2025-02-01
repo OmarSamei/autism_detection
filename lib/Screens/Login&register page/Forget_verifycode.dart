@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_project/Screens/Login&register%20page/PassChangeSuccess.dart';
+import 'package:autism_detection/Screens/Login&register%20page/PassChangeSuccess.dart';
 
 class ForgetVerificationScreen extends StatelessWidget {
   ForgetVerificationScreen({super.key});

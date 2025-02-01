@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_project/Screens/AppContent/photo_upload.dart';
-import 'package:graduation_project/Screens/Questions_pages/main_questions_page.dart';
+import 'package:autism_detection/Screens/AppContent/photo_upload.dart';
+import 'package:autism_detection/Screens/Questions_pages/main_questions_page.dart';
 class DiagnosisPage extends StatelessWidget {
   final TextEditingController nameController = TextEditingController();
   final TextEditingController ageController = TextEditingController();

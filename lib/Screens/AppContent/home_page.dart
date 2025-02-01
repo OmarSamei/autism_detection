@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_project/Screens/AppContent/Diagnosis_page.dart';
+import 'package:autism_detection/Screens/AppContent/Diagnosis_page.dart';
 
 
 class HomePage extends StatefulWidget {
@@ -245,7 +245,7 @@ class _ChatBotPageState extends State<ChatBotPage> {
                       controller: _controller,
                       decoration: InputDecoration(
                         hintText: 'أرسل رسالة....',
-                        hintStyle: TextStyle(fontFamily: "Alexandria",),
+                        hintStyle: const TextStyle(fontFamily: "Alexandria",),
                         border:OutlineInputBorder(
                           borderRadius: BorderRadius.circular(20), // جعل الحواف دائرية
                         ),

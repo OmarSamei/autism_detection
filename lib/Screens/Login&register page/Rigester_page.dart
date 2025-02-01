@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_project/Screens/Login&register%20page/R_verify.dart';
+import 'package:autism_detection/Screens/Login&register%20page/R_verify.dart';
 
 
 class RegisterPage extends StatefulWidget {
